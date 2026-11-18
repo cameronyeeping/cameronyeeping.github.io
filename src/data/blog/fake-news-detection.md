@@ -1,6 +1,6 @@
 ---
 author: Cameron
-pubDatetime: 2025-12-15
+order: 2
 title: "Multi-Class Fake News Detection with BERT and LLMs"
 postSlug: fake-news-detection
 featured: false

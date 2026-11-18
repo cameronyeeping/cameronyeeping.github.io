@@ -1,6 +1,6 @@
 ---
 author: Cameron Yee-Ping
-pubDatetime: 2025-12-21T15:20:35Z
+order: 1
 title: "Capstone Project: Real-Time 3D Point Cloud Editing & Rendering"
 featured: true
 draft: false

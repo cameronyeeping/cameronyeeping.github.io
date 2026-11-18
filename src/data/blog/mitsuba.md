@@ -1,6 +1,6 @@
 ---
 author: Cameron Yee-Ping
-pubDatetime: 2025-04-15
+order: 3
 title: "Volumetric Caustics: Path Tracing & G-Buffer Denoising"
 postSlug: volumetric-caustics-renderer
 featured: false
